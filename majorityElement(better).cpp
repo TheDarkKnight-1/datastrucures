@@ -1,3 +1,4 @@
+//O(n) space complexity
 int majorityElement(vector<int>& nums) {
         map<int,int>m;
         int n=nums.size(),val=1;
