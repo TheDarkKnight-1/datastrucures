@@ -1,4 +1,4 @@
-//O(2n) timecomplexity and O(1) spacecomplexity
+//O(2n) timecomplexity and O(1) spacecomplexity 
 ListNode* removeNthFromEnd(ListNode* head, int n) {
         //Brute force
         int len=0,count=0;
